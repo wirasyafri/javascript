@@ -5,7 +5,10 @@ function JalanSatu(){
 const jalanDua =function(){
 	console.log("jalan dua")
 }
-
+var wira = function(){
+	console.log(":test");
+}
+wira()
 JalanSatu()
 jalanDua()
 
